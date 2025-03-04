@@ -4,3 +4,7 @@
 
 - SG-323 builds for Apple Silicon (mac_arm64).
 - Author: [Greyboxaudio](https://github.com/greyboxaudio/SG-323)
+
+
+## Downloads
+- [Releases](https://github.com/cwmoriarty/SG-323-Builds/releases/)
